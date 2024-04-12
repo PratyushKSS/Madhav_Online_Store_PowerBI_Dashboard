@@ -14,4 +14,4 @@ Project Learnings
 
 * Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
-![MadhavSaleDashboard](https://github.com/PratyushKSS/Madhav_Online_Store_PowerBI_Dashboard/blob/main/Madhav_Sales_Dashboard.png?raw=true)
+<img src="https://github.com/PratyushKSS/Madhav_Online_Store_PowerBI_Dashboard/blob/main/Madhav_Sales_Dashboard.png?raw=true" alt="MadhavSaleDashboard">
